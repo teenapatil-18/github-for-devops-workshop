@@ -3,3 +3,6 @@ git status
 git add
 git commit -m "added file name"
 git restore
+git remote -v
+git remote set-url origin
+git push origin master
