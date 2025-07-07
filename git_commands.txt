@@ -6,3 +6,4 @@ git restore
 git remote -v
 git remote set-url origin
 git push origin master
+clear
